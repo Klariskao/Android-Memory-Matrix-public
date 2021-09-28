@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Memory Matrix</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="scores">Top Scores</string>
+    <string name="play">Play</string>
+    <string name="cross">cross</string>
+    <string name="tick">tick</string>
+    <string name="trial">Trial</string>
+    <string name="tiles">Tiles</string>
+    <string name="score">Score</string>
+    <string name="of_12">of 12</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="bonus">Bonus</string>
+    <string name="icon">icon</string>
+    <string name="top_scores">Your Top Scores</string>
+    <string name="information">Start playing to see your top scores</string>
+    <string name="your_score">Your Score:</string>
+    <string name="one_tile_left">Keep clicking. You can uncover 1 more tile.</string>
+    <string name="x_tiles_left">Keep clicking. You can uncover %1$d more tiles.</string>
+    <string name="plus_x">+%1$d</string>
+    <string name="x_dot">%1$d.</string>
+</resources>

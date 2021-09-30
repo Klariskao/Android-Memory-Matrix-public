@@ -81,7 +81,6 @@ class ThirdFragment : Fragment(layout.fragment_third), RecyclerViewClickListener
 
     override fun onDestroyView() {
         super.onDestroyView()
-        _binding = null
         // Release SoundPool on destroy
         soundPool.release()
     }
